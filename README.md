@@ -13,3 +13,4 @@ I use:<br>
 - I speak English🇬🇧 and Polish🇵🇱.
 
 <h5>These icons of OS'es and Programing Languages: https://github.com/Ileriayo/markdown-badges by: https://github.com/Ileriayo license: https://github.com/Ileriayo/markdown-badges?tab=MIT-1-ov-file</h5>
+<h5>Thanks for these icons!</h5>
