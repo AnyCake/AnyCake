@@ -13,5 +13,3 @@ Operating Systems that i use:<br>
 
 <h5>These icons of OS'es, Programing Languages and Tools: https://github.com/Ileriayo/markdown-badges by: https://github.com/Ileriayo license: https://github.com/Ileriayo/markdown-badges?tab=MIT-1-ov-file</h5>
 <h5>Thanks for these icons!</h5>
-
-<h3>I'm doing something big 👀</h3>
